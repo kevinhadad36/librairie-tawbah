@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Librairie Tawbah — script principal
+   Librairie Sakina — script principal
    Vanilla JS, sans dépendance. Amélioration progressive :
    le site reste utilisable et lisible si ce fichier ne se charge pas.
    ========================================================================== */
@@ -252,7 +252,7 @@
   }
 
   /* ---------- 10. Favoris ---------- */
-  var FAV_KEY = "tawbah_favoris";
+  var FAV_KEY = "sakina_favoris";
   function readStore(key) {
     try { return JSON.parse(localStorage.getItem(key) || "[]"); } catch (e) { return []; }
   }
@@ -275,7 +275,7 @@
   });
 
   /* ---------- 11. Panier ---------- */
-  var CART_KEY = "tawbah_panier";
+  var CART_KEY = "sakina_panier";
   var cart = readStore(CART_KEY);
   if (!Array.isArray(cart)) cart = [];
 

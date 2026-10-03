@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://www.librairie-tawbah.fr/sitemap.xml
+Sitemap: https://kevinhadad36.github.io/librairie-tawbah/sitemap.xml

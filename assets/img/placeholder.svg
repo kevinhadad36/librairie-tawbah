@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800" role="img" aria-label="Librairie Tawbah">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800" role="img" aria-label="Librairie Sakina">
 <defs>
 <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
 <stop offset="0" stop-color="#17594B"/><stop offset="1" stop-color="#07241F"/>
@@ -13,5 +13,5 @@
 <rect width="600" height="800" fill="url(#g)"/>
 <rect width="600" height="800" fill="url(#p)" opacity=".16"/>
 <g transform="translate(0,0)"><path d="M168 690 V352 a132 132 0 0 1 264 0 V690 Z" fill="none" stroke="rgba(255,255,255,.34)" stroke-width="2"/><path d="M198 690 V356 a102 102 0 0 1 204 0 V690 Z" fill="rgba(255,255,255,.07)"/></g>
-<text x="300" y="742" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="rgba(255,255,255,.92)" letter-spacing="1">Librairie Tawbah</text>
+<text x="300" y="742" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="rgba(255,255,255,.92)" letter-spacing="1">Librairie Sakina</text>
 </svg>
